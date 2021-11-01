@@ -27,6 +27,7 @@ h1 {
     padding: 60px;
     background: white;
     max-width: 500px;
+    border-radius: 5px;
 }
 
 .buy-button {
